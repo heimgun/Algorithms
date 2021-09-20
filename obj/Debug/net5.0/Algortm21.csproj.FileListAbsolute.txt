@@ -1,0 +1,15 @@
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/Algortm21.deps.json
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/Algortm21.runtimeconfig.json
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/Algortm21.runtimeconfig.dev.json
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/Algortm21.dll
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/ref/Algortm21.dll
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/bin/Debug/net5.0/Algortm21.pdb
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.csproj.AssemblyReference.cache
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.AssemblyInfoInputs.cache
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.AssemblyInfo.cs
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.csproj.CoreCompileInputs.cache
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.dll
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/ref/Algortm21.dll
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.pdb
+/Users/heidiguneriussen/Desktop/Projects/Algortm21/obj/Debug/net5.0/Algortm21.genruntimeconfig.cache
